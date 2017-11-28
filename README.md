@@ -1,4 +1,4 @@
-﻿# Project Title
+﻿# Asp Net Core 2.0 + SignalR + Angular
 
 Asp.Net Core 2.0 SignalR Message Hub with Angular Client	
 
